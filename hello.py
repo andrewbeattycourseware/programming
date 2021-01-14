@@ -1,3 +1,3 @@
-# Program that says hello world
+# Program that says Hello World
 
 print("Hello World")
